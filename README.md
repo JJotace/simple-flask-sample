@@ -81,7 +81,7 @@ Feel free to contribute to this project by opening issues or submitting pull req
 
 ## Author
 
-- Pan Luo
+- Juan Cardoso
 
 ## Acknowledgments
 
